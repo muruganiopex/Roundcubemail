@@ -1,0 +1,7 @@
+{
+	"name": "barry",
+	"author": "tonyvier / FLINT / Büro für Gestaltung, Switzerland",
+	"license": "Creative Commons Attribution-ShareAlike",
+	"license-url": "http://creativecommons.org/licenses/by-sa/3.0/",
+	"extends": "larry"
+}
