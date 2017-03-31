@@ -1,7 +1,7 @@
 <?php
 
 // SQL DATABASE
-$config['db_dsnw'] = 'mysqli://roundcube:woFxXMhO8y6Nh9ojklCFRaN931YkpJ@127.0.0.1/roundcubemail';
+$config['db_dsnw'] = 'mysqli://roundcube:TpLMvzHrYGVz1AzUTZpjdpgTqdByvt@127.0.0.1/roundcubemail';
 
 // LOGGING
 $config['log_driver'] = 'syslog';
